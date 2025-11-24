@@ -27,7 +27,7 @@ I enjoy solving challenging problems, learning new technologies, and turning ide
 - 🌦️ [**Weather Forecasting Website**](https://weather-forecasting-website-mauve.vercel.app/) – Get real-time weather updates  
 - 🌍 [**Language Translator**](https://language-translator-murex.vercel.app/) – Translate text between multiple languages  
 - 💼 [**Portfolio Website**](https://portfolio-website-psi-three-31.vercel.app/) – My personal portfolio showcasing projects and skills
-- 💼 [**The Indian Bawarchi – Food Blog Website**](https://theindianbawarchi.vercel.app/)– A fully responsive and visually rich food blog showcasing authentic Indian recipes, designed with clean UI, optimized performance, and smooth user experience.
+- 🍽️ [**The Indian Bawarchi – Food Blog Website**](https://theindianbawarchi.vercel.app/)– A fully responsive and visually rich food blog showcasing authentic Indian recipes, designed with clean UI, optimized performance, and smooth user experience.
 
 ---
 
