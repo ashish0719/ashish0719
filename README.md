@@ -31,17 +31,11 @@ I enjoy solving challenging problems, learning new technologies, and turning ide
 
 ---
 
-## 📈 GitHub Stats  
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish0719&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish0719&layout=compact&theme=radical)  
-
----
 
 ## 📬 Connect With Me  
 - 📧 Email: **sauravashish.0000@gmail.com**  
-- 🌐 Portfolio: [ashish0719 Portfolio]((https://vercel.com/ashishs-projects-1448cb93?repo=https://github.com/ashish0719/Portfolio-website))  
+- 🌐 Portfolio: [ashish0719 Portfolio](https://vercel.com/ashishs-projects-1448cb93?repo=https://github.com/ashish0719/Portfolio-website)  
 - 
 
 ---
