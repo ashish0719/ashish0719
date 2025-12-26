@@ -26,7 +26,7 @@ I enjoy solving challenging problems, learning new technologies, and turning ide
 - 🎯 [**Quiz Website**](https://quiz-website-liard.vercel.app/) – A fun and interactive quiz app  
 - 🌦️ [**Weather Forecasting Website**](https://weather-forecasting-website-mauve.vercel.app/) – Get real-time weather updates  
 - 🌍 [**Language Translator**](https://language-translator-murex.vercel.app/) – Translate text between multiple languages  
-- 💼 [**Portfolio Website**](https://portfolio-website-psi-three-31.vercel.app/) – My personal portfolio showcasing projects and skills
+- 💼 [**Portfolio Website**](https://portfolio-website-xi-weld.vercel.app/) – My personal portfolio showcasing projects and skills
 - 🍽️ [**The Indian Bawarchi – Food Blog Website**](https://theindianbawarchi.vercel.app/)– A fully responsive and visually rich food blog showcasing authentic Indian recipes, designed with clean UI, optimized performance, and smooth user experience.
 
 ---
@@ -35,7 +35,7 @@ I enjoy solving challenging problems, learning new technologies, and turning ide
 
 ## 📬 Connect With Me  
 - 📧 Email: **sauravashish.0000@gmail.com**  
-- 🌐 Portfolio: [ashish0719 Portfolio](https://vercel.com/ashishs-projects-1448cb93?repo=https://github.com/ashish0719/Portfolio-website)  
+- 🌐 Portfolio: [ashish0719 Portfolio](https://portfolio-website-xi-weld.vercel.app/)  
 - 
 
 ---
