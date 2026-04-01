@@ -28,6 +28,7 @@ I enjoy solving challenging problems, learning new technologies, and turning ide
 - 🌍 [**Language Translator**](https://language-translator-murex.vercel.app/) – Translate text between multiple languages  
 - 💼 [**Portfolio Website**](https://portfolio-website-xi-weld.vercel.app/) – My personal portfolio showcasing projects and skills
 - 🍽️ [**The Indian Bawarchi – Food Blog Website**](https://theindianbawarchi.vercel.app/)– A fully responsive and visually rich food blog showcasing authentic Indian recipes, designed with clean UI, optimized performance, and smooth user experience.
+- ⚡ [**Switch – Resume Optimization Platform**](https://switch-ecru.vercel.app/) – An intelligent resume optimization platform that helps users enhance their resumes with better structure, improved content, and ATS-friendly formatting for increased job opportunities
 
 ---
 
